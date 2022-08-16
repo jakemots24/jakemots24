@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jakemots24
-- 👀 I’m interested in networking, suggestions on becoming a Developer.
+- 👋 Hi, I’m Jake, I'm from California, I'm learning to become a Developer.
+- 👀 I’m interested in networking, and meeting new people in the tech industry.
 - 🌱 I’m currently learning Javascript/Git/Front-End Development
 
 <!---
